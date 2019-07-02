@@ -6,4 +6,5 @@ Here you have to load the image in which glare has to be removed and set a thres
 
 Using inpaint function from opencv you can remove the binary mask of the glare which has been created from the above threshold from the original image.
 
- 
+![Alt text](/home/sripavan/Desktop/glare/sample.jpg?raw=true "Original Image")
+
